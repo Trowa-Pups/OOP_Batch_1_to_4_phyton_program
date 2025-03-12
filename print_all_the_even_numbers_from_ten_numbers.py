@@ -6,5 +6,5 @@ for i in range(10):
 
 #Print all the even numbers from ten numbers
 for number in number_list: #To grab a number in the list
-    if number % == 0: #To check if it is even
+    if number % 2 == 0: #To check if it is even
         print(number)
