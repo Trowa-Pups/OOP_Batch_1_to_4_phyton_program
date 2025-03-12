@@ -5,6 +5,3 @@ number2 = int(input("Input your second number: "))
 #Print "Equal" when the numbers are the same
 if number1 == number2:
     print("Equal")
-
-else:
-    print("Not Equal")
