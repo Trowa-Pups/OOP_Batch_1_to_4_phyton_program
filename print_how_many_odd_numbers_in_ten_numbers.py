@@ -1,5 +1,5 @@
 #Ask the user to input ten numbers
-number_list = []
+number_list = [] #To store the numbers inputed by the user
 oddnumber_counter = 0 #Counter for how many odd numbers in the list
 
 for i in range(10): #To store the numbers inputed by the user
