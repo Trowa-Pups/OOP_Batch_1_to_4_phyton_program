@@ -1,2 +1,5 @@
 #Ask the user to input two numbers
-#Print the product of thetwo numbers
+number1 = int(input("Input your first number: "))
+number2 = int(input("Input your second number: "))
+
+#Print the product of the two numbers
