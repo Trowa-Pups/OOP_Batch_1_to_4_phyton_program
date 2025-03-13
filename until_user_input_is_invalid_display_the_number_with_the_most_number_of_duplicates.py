@@ -18,4 +18,4 @@ while True:
 #Check which has the most duplicates
 most_duplicates = max(number_list, key = number_list.count)
 
-print(most_duplicates) #Print the number with the most number of duplicates
+print("Most duplicates:", most_duplicates) #Print the number with the most number of duplicates
