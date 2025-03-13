@@ -1,6 +1,7 @@
 #Ask the user to input numbers until they inputed an invalid input
 number_list = []
 current_number = 1
+
 while True:
     try:
 
