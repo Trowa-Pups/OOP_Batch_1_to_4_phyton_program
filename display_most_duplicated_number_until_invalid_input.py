@@ -1,6 +1,7 @@
 #Ask the user to input numbers until they inputed an invalid input
 number_list = [] #Create a list that has a system where it checks if inputed number has a duplicate or not
 current_number = 1
+
 while True:
     try: 
         print("Input somnething other than a number to stop")
