@@ -6,6 +6,6 @@ for i in range(10):
     number_list.append(number)
 
 for check in number_list:
-    if number_list.count(check) == 1:
+    if number_list.count(check) == 1: #To check if it isn't a duplicate
         print(check) #Print the numbers without duplicates
     
