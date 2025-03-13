@@ -20,4 +20,4 @@ while True:
 if number_list:
     number_list.sort(reverse = True)#Use sort.() to sort numbers highest to lowest, reverse = True to make it sort highest to lowest
 
-#Print the numbers highest to lowest
+print(number_list) #Print the numbers highest to lowest
