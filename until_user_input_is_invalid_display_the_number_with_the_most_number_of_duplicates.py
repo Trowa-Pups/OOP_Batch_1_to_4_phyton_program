@@ -15,5 +15,7 @@ while True:
         print("Stopped")
         break
 
-#Check how many duplicates a number has
+#Check which has the most duplicates
+most_duplicates = max(number_list, key = number_list.count)
+
 #Print the number with the most number of duplicates
