@@ -1,4 +1,5 @@
 #Ask the user to input numbers until they inputed an invalid input
+import statistics
 number_list = [] #To store the numbers inputed
 current_number = 1
 
@@ -15,5 +16,5 @@ while True:
     except ValueError:
         print("Stopped")
         break
-#Use mean.() to get the average
-#Print the average of all numbers
+
+print(statistics.mean(number_list)) #Use mean.() to get the average and Print the average of all numbers
