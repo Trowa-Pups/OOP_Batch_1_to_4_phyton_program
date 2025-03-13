@@ -1,6 +1,7 @@
 #Ask the user to input numbers until they inputed an invalid input
 number_list = [] #Create a list and check what number in the list has the highest value
 current_number = 1
+
 while True:
     try:
         print("Input something other than a number to stop")
