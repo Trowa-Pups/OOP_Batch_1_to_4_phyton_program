@@ -1,6 +1,7 @@
 #Ask the user to input numbers until they inputed an invalid input
 current_number = 1
 number_list = [] #To store inputed numbers by the user
+
 while True:
     try:
         print("Input something other than a number to stop")
