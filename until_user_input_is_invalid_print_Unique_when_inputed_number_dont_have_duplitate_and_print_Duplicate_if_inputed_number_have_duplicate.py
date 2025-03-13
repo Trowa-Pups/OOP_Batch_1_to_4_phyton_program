@@ -1,4 +1,4 @@
-#Ask the user to input until they inputed an invalid input
+#Ask the user to input numbers until they inputed an invalid input
 number_list = [] #To store inputed numbers by the user
 current_number = 1 #To see the current number the user inputed
 while True: 
