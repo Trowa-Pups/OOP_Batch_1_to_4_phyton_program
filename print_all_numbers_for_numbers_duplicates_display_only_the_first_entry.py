@@ -8,4 +8,4 @@ for i in range(10):
     else:
         number_list.append(number) #If its not, it adds it in the number list
 
-#Display/Print all the numbers and first entries
+print(number_list) #Display/Print all the numbers and first entries
