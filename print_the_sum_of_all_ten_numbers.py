@@ -6,4 +6,5 @@ for i in range(10):
 
 #Print the sum of all the numbers
 total_sum = sum(number_list)
+
 print("Sum of all the numbers: ", total_sum)
