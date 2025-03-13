@@ -7,4 +7,5 @@ for i in range(10):
 
 for check in number_list:
     if number_list.count(check) == 1:
-        print(check) #Print the numbers without the duplicate
+        print(check) #Print the numbers without duplicates
+    
