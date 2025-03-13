@@ -14,3 +14,5 @@ while True:
 
 if number_list: #To make sure list isn't empty
     number_list.sort() #Use sort() to sort numbers lowest to highest
+
+print(number_list) #Print the numbers lowest to highest
