@@ -4,4 +4,5 @@ number2 = int(input("Please input your second number: "))
 
 #Print the quotient of the two numbers without the decimal point
 quotient = number1 // number2
+
 print(quotient)
