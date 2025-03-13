@@ -16,6 +16,6 @@ while True:
         break
 
 #Check which has the most duplicates
-most_duplicates = max(number_list, key = number_list.count)
+most_duplicates = max(number_list, key = number_list.count) #Uses max() to grab the highest number 
 
 print("Most duplicates:", most_duplicates) #Print the number with the most number of duplicates
