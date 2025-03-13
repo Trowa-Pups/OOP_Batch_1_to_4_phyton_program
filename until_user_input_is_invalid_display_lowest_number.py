@@ -4,8 +4,11 @@ number_list = [] #Create a list and check what number in the list has the lowest
 while True:
     try:
         print("Input something other than a number to stop")
+
         number = int(input(f"Input number ({current_number}): "))
+
         current_number += 1
+        
         number_list.append(number)
 
     except ValueError:
